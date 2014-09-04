@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CameraApp</string>
+    <string name="title_section1">Home</string>
+    <string name="title_section2">Take Picture</string>
+    <string name="title_section3">Take Video</string>
+    <string name="title_section4">Choose Picture</string>
+    <string name="title_section5">Choose Video</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="take_picture">Get The Camera Functions</string>
+    <string name="action_settings">Settings</string>
+    <string name="problem_external_device">There was a problem accessing your device\'s external storage</string>
+
+
+
+    <string-array name="camera_choices">
+        <item>Take Picture</item>
+        <item>Take Video</item>
+        <item>Choose Picture</item>
+        <item>Choose Video</item>
+    </string-array>
+
+</resources>
